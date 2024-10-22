@@ -1,1 +1,1 @@
-# passmanage
+# passmanager
